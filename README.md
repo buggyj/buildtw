@@ -11,6 +11,7 @@ The in following files the names will need to be replaced:
 
 readme.tid
 plugin.info
+tiddlywiki.files
 build/bld.sh
 build/demo/tiddlywiki.info
 build/demoedit/tiddlywiki.info
